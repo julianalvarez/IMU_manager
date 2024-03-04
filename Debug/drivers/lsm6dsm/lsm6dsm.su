@@ -1,0 +1,15 @@
+../drivers/lsm6dsm/lsm6dsm.c:19:13:xl_fs_to_mg	24	static
+../drivers/lsm6dsm/lsm6dsm.c:45:13:gy_fs_to_mdps	24	static
+../drivers/lsm6dsm/lsm6dsm.c:76:13:temp_fs_to_degc	16	static
+../drivers/lsm6dsm/lsm6dsm.c:81:13:_acc_orientation	24	static
+../drivers/lsm6dsm/lsm6dsm.c:112:13:_gyr_orientation	24	static
+../drivers/lsm6dsm/lsm6dsm.c:143:16:_read	32	static
+../drivers/lsm6dsm/lsm6dsm.c:151:16:_write	32	static
+../drivers/lsm6dsm/lsm6dsm.c:160:17:lsm6dsm_init	24	static
+../drivers/lsm6dsm/lsm6dsm.c:179:17:lsm6dsm_setup	24	static
+../drivers/lsm6dsm/lsm6dsm.c:295:17:lsm6dsm_processor	40	static
+../drivers/lsm6dsm/lsm6dsm.c:390:17:lsm6dsm_get_diagnostic	16	static
+../drivers/lsm6dsm/lsm6dsm.c:397:17:lsm6dsm_get_imu_raw_values	16	static
+../drivers/lsm6dsm/lsm6dsm.c:409:17:lsm6dsm_get_imu_temperature	16	static
+../drivers/lsm6dsm/lsm6dsm.c:416:17:lsm6dsm_get_imu_temperatures	16	static
+../drivers/lsm6dsm/lsm6dsm.c:428:17:lsm6dsm_get_config	16	static

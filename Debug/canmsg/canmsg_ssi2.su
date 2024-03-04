@@ -1,0 +1,4 @@
+../canmsg/canmsg_ssi2.c:20:7:CANMSG_GetPointer_SSI2	4	static
+../canmsg/canmsg_ssi2.c:24:9:__Init_SSI2	40	static
+../canmsg/canmsg_ssi2.c:38:6:__Update_SSI2	32	static
+../canmsg/canmsg_ssi2.c:77:6:__Reset_SSI2	4	static

@@ -1,0 +1,9 @@
+../canmsg/canmsg_propa.c:26:6:_dummy	16	static
+../canmsg/canmsg_propa.c:32:9:PROPA_IMU_Init	40	static
+../canmsg/canmsg_propa.c:62:10:PROPA_IMU_OnCommand	16	static
+../canmsg/canmsg_propa.c:69:11:__OnCommand_PROPA_IMU	16	static
+../canmsg/canmsg_propa.c:90:6:_processGetParameter	32	static
+../canmsg/canmsg_propa.c:189:6:_processSetParameter	40	static
+../canmsg/canmsg_propa.c:252:6:_processRestoreDefaults	24	static
+../canmsg/canmsg_propa.c:282:6:_processCommitData	16	static
+../canmsg/canmsg_propa.c:321:6:_sendPROPA	24	static

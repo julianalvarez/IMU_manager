@@ -1,0 +1,3 @@
+../source/imu_canmsg.c:19:6:IMU_CANMSG_Init	32	static
+../source/imu_canmsg.c:64:10:IMU_CANMSG_PROPA_OnCommand	16	static
+../source/imu_canmsg.c:69:6:IMU_CANMSG_Reset	8	static

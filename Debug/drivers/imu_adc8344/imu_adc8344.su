@@ -1,0 +1,6 @@
+../drivers/imu_adc8344/imu_adc8344.c:21:17:imu_adc8344_init	16	static
+../drivers/imu_adc8344/imu_adc8344.c:26:17:imu_adc8344_processor	8	static
+../drivers/imu_adc8344/imu_adc8344.c:31:17:imu_adc8344_get_diagnostic	16	static
+../drivers/imu_adc8344/imu_adc8344.c:36:17:imu_adc8344_get_imu_raw_values	16	static
+../drivers/imu_adc8344/imu_adc8344.c:41:17:imu_adc8344_get_imu_temperature	16	static
+../drivers/imu_adc8344/imu_adc8344.c:46:17:imu_adc8344_get_imu_temperatures	16	static

@@ -1,0 +1,4 @@
+../canmsg/canmsg_ari.c:20:7:CANMSG_GetPointer_ARI	4	static
+../canmsg/canmsg_ari.c:24:9:__Init_ARI	40	static
+../canmsg/canmsg_ari.c:38:6:__Update_ARI	40	static
+../canmsg/canmsg_ari.c:74:6:__Reset_ARI	4	static

@@ -1,0 +1,3 @@
+../canmsg/canmsg_as.c:19:7:CANMSG_GetPointer_AS	4	static
+../canmsg/canmsg_as.c:23:9:__Init_AS	40	static
+../canmsg/canmsg_as.c:37:6:__Update_AS	48	static

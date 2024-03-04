@@ -1,0 +1,4 @@
+../canmsg/canmsg_accs.c:21:7:CANMSG_GetPointer_ACCS	4	static
+../canmsg/canmsg_accs.c:25:9:__Init_ACCS	40	static
+../canmsg/canmsg_accs.c:39:6:__Update_ACCS	40	static
+../canmsg/canmsg_accs.c:75:6:__Reset_ACCS	4	static

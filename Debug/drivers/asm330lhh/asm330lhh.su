@@ -1,0 +1,15 @@
+../drivers/asm330lhh/asm330lhh.c:19:13:xl_fs_to_mg	32	static
+../drivers/asm330lhh/asm330lhh.c:45:13:gy_fs_to_mdps	32	static
+../drivers/asm330lhh/asm330lhh.c:81:13:temp_fs_to_degc	16	static
+../drivers/asm330lhh/asm330lhh.c:86:13:_acc_orientation	24	static
+../drivers/asm330lhh/asm330lhh.c:117:13:_gyr_orientation	24	static
+../drivers/asm330lhh/asm330lhh.c:148:16:_read	32	static
+../drivers/asm330lhh/asm330lhh.c:156:16:_write	32	static
+../drivers/asm330lhh/asm330lhh.c:165:17:asm330lhh_init	24	static
+../drivers/asm330lhh/asm330lhh.c:184:17:asm330lhh_setup	24	static
+../drivers/asm330lhh/asm330lhh.c:288:17:asm330lhh_processor	40	static
+../drivers/asm330lhh/asm330lhh.c:383:17:asm330lhh_get_diagnostic	16	static
+../drivers/asm330lhh/asm330lhh.c:390:17:asm330lhh_get_imu_raw_values	16	static
+../drivers/asm330lhh/asm330lhh.c:402:17:asm330lhh_get_imu_temperature	16	static
+../drivers/asm330lhh/asm330lhh.c:409:17:asm330lhh_get_imu_temperatures	16	static
+../drivers/asm330lhh/asm330lhh.c:421:17:asm330lhh_get_config	16	static
