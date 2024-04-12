@@ -8,8 +8,6 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include xip/subdir.mk
--include utilities/subdir.mk
 -include source/subdir.mk
 -include filter/subdir.mk
 -include drivers/lsm6dsm/lsm6dsm_STdC/driver/subdir.mk
@@ -17,13 +15,7 @@ RM := rm -rf
 -include drivers/imu_adc8344/subdir.mk
 -include drivers/asm330lhh/asm330lhh_STdC/driver/subdir.mk
 -include drivers/asm330lhh/subdir.mk
--include drivers/subdir.mk
--include device/subdir.mk
--include component/uart/subdir.mk
--include component/serial_manager/subdir.mk
--include component/lists/subdir.mk
 -include canmsg/subdir.mk
--include board/subdir.mk
 ifneq ($(MAKECMDGOALS),clean)
 ifneq ($(strip $(C_DEPS)),)
 -include $(C_DEPS)
